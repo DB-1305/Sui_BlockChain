@@ -1,2 +1,2 @@
-export const COUNTER_PACKAGE_ID = "0x5ae12e3fec4b6b17c54702e16aad6892a167eaa83d0a83ab22f13c67792baaa9";
+export const COUNTER_PACKAGE_ID = "0xa2b3afb7cfe62ac838bd76175508886f03f02ec50d930eb2688b3a84de57ece8";
 
